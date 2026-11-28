@@ -18,3 +18,13 @@ Users can report an incident through an API, which is then categorised and store
 - OpenTelemetry
 - AWS
 - GitHub Actions
+
+## To Do
+
+- [ ] PostgreSQL and Flyway Migrations for incidents table
+- [ ] Create Incident (POST /incidents) Endpoint
+- [ ] Get Incident Details (GET /incidents/{id}) Endpoint
+- [ ] Basic Incident Categorisation
+- [ ] Kafka Event on Incident Creation
+- [ ] Testcontainers for Happy Path Tests
+- [ ] Open Telemetry Traces and Metrics
